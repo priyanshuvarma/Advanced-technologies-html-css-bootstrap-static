@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.adtech-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.adtech-card-container {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.adtech-main-heading {
+    font-family: Bree Serif;
+    color: #5752ab;
+    font-size: 25px;
+}
+
+.adtech-paragraph {
+    font-size: 13px;
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.adtech-btn1 {
+    font-size: 10px;
+    text-align: center;
+    border-color: #d7dfe9;
+    font-family: Roboto;
+    background-color: #ffffff;
+    color: #171f46;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    margin-left: 15px;
+    border-style: solid;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.adtech-btn2 {
+    font-size: 10px;
+    font-family: Roboto;
+    background-color: #5752ab;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    margin-right: 15px;
+    border-width: 0px;
+}
